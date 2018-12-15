@@ -1,3 +1,5 @@
+PowerSploit是又一款Post Exploitation 相关工具，Post Exploitation是老外渗透测试标准里面的东西，就是获取shell之后干的一些事情。PowerSploit 其实就是一些powershell 脚本，包括Inject-Dll(注入dll 到指定进程 )、Inject-Shellcode（注入shellcode到执行进程）、 Encrypt- Script（文本或脚本加密）、Get-GPPPassword（通过groups.xml 获取明文密码）、 Invoke- ReverseDnsLookup（扫描DNS PTR记录）
+
 ### PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts:
 
 ## CodeExecution
